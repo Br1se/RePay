@@ -4,7 +4,6 @@ RePay
 
 
 # ToDo List
-
 Login system
 
     - interact with google login api
@@ -16,4 +15,10 @@ Create user
     - 
     -
     -
-        
+
+Connect to database
+
+    -
+    -
+    -
+    
